@@ -1,3 +1,37 @@
+header{
+    position: absolute;
+    width: 1415px;
+    height: 786px;
+    background-color: blue;
+    margin-top: 35px;
+    margin-left: 80px;
+    
+}
+main {
+    position: absolute;
+    width: 1242px;
+    height: 550px;
+    background-color: red;
+    margin-top: 1091px;
+    margin-left: 141px;
+}
+section {
+    position: absolute;
+    width: 1136.05px;
+    height: 684px;
+    background-color: green;
+    margin-top: 1755px;
+    margin-left: 227px;
+}
+
+
+
+
+
+
+
+
+
 footer {
 position: absolute;
 width: 1640px;
