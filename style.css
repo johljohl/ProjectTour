@@ -201,14 +201,143 @@ footer {
   height: 482px;
   left: 6px;
   top: 2553px;
-  background-color: yellow;
+  background-color: #f9f9fb;
 }
-footer .frame1 {
-  background-image: url("img/frame1.png");
-  background-repeat: no-repeat;
-  position: absolute;
-  width: 10px;
-  height: 22px;
-  left: 710px;
-  top: 482px;
+.grp7{
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 78px;
+    left: 191px;
 }
+.f1 {
+    position: absolute;
+    width: 391px;
+    height: 84px;
+    top: 148px;
+    left: 190px;
+    font-size: 18px;
+    line-height: 28px;
+
+}
+.f2 {
+    position: absolute;
+    width: 391px;
+    height: 28px;
+    top: 287px;
+    left: 190px;
+    font-size: 17px;
+    line-height: 28px;
+}
+.f3 {
+    position: absolute;
+    width: 80px;
+    height: 190px;
+    top: 129px;
+    left: 689px;
+    font-size: 18px;
+    line-height: 38px;
+}
+.f4 {
+    position: absolute;
+    width: 171px;
+    height: 190px;
+    top: 129px;
+    left: 962px;
+    font-size: 18px;
+    line-height: 38px;
+}
+.f5 {
+    position: absolute;
+    width: 150px;
+    height: 190px;
+    top: 129px;
+    left: 1249px;
+    font-size: 18px;
+    line-height: 38px;
+}
+hr {
+    position: absolute;
+    border-top: 1px solid #c4c4c4;
+    width: 1291px;
+    height: 0.6px;
+    top: 396px;
+    left: 191px;
+}
+.fh1 {
+    position: absolute;
+    width: 115px;
+    height:60px;
+    top: 70px;
+    left: 689px;
+    font-size: 19px;
+    line-height: 60px;
+}
+.fh2 {
+    position: absolute;
+    width: 115px;
+    height:60px;
+    top: 70px;
+    left: 962px;
+    font-size: 19px;
+    line-height: 60px;
+}
+.fh3 {
+    position: absolute;
+    width: 115px;
+    height:60px;
+    top: 70px;
+    left: 1249px;
+    font-size: 19px;
+    line-height: 60px;
+}
+.meta1 {
+    position: absolute;
+    width: 25px;
+    height: 20px;
+    top: 429px;
+    left: 650px;
+    
+}
+.meta1 {
+    position: absolute;
+    width: 25px;
+    height: 20px;
+    top: 429px;
+    left: 650px;
+    
+}
+.meta2 {
+    position: absolute;
+    width: 10px;
+    height: 22px;
+    top: 429px;
+    left: 704px;
+    
+}
+.meta3 {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 429px;
+    left: 755px;
+    
+}
+.meta4 {
+    position: absolute;
+    width: 23px;
+    height: 22px;
+    top: 429px;
+    left: 812px;
+    
+}
+.meta5 {
+    position: absolute;
+    width: 28.01px;
+    height: 20px;
+    top: 429px;
+    left: 870px;
+    
+}
+
+
