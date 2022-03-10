@@ -1,8 +1,12 @@
-HTML,
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
-  margin: 0px;
-  padding: 0px;
-  border: 0px;
+  position: relative;
+  width: 1600px;
+  height: 2448px;
 }
 header {
   position: absolute;
@@ -24,7 +28,7 @@ section {
   position: absolute;
   width: 1136.05px;
   height: 684px;
-  background-color: green;
+  
   margin-top: 1755px;
   margin-left: 227px;
 }
@@ -72,7 +76,7 @@ h2 {
   line-height: 30px;
 }
 
-.p2 {
+.blog2 {
   position: absolute;
   width: 244.38px;
   left: 288px;
@@ -84,7 +88,7 @@ h2 {
   font-size: 19px;
   line-height: 30px;
 }
-.p3 {
+.blog3 {
   position: absolute;
   width: 254.475px;
   left: 578.63px;
@@ -96,7 +100,7 @@ h2 {
   font-size: 19px;
   line-height: 30px;
 }
-.p4 {
+.blog4 {
   position: absolute;
   width: 221.15px;
   left: 867px;
@@ -107,6 +111,53 @@ h2 {
   font-weight: bold;
   font-size: 19px;
   line-height: 30px;
+}
+.blogtext1 {
+  position: absolute;
+  width: 221.15px;
+  top: 457.56px;
+}
+.blogtext2 {
+  position: absolute;
+  width: 221.15px;
+  left: 288px;
+  top: 457.56px;
+}
+.blogtext3 {
+  position: absolute;
+  width: 221.15px;
+  left: 578.63px;
+  top: 457.56px;
+}
+.blogtext4 {
+  position: absolute;
+  width: 221.15px;
+  left: 867px;
+  top: 457.56px;
+}
+.read1 {
+  position: absolute;
+  width: 221.15px;
+  
+  top: 558.56px;
+}
+.read2 {
+  position: absolute;
+  width: 221.15px;
+  left: 288px;
+  top: 558.56px;
+}
+.read3 {
+  position: absolute;
+  width: 221.15px;
+  left: 578.63px;
+  top: 558.56px;
+}
+.read4 {
+  position: absolute;
+  width: 221.15px;
+  left: 867px;
+  top: 558.56px;
 }
 
 footer {
